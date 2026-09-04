@@ -7,12 +7,10 @@ data/*.zip
 !data/.gitkeep
 
 # Model weights (too large for GitHub - use HuggingFace Hub or Drive link instead)
-checkpoints/*.pth
 
 # Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
 
 # OS
 .DS_Store

@@ -141,8 +141,7 @@ st.markdown(
     """
     <div class="hero">
         <h1>🎨 Image Colorization</h1>
-        <p>Upload any black & white image — landscape or portrait — and a U-Net model
-        (PyTorch) trained from scratch will add color automatically.</p>
+           <p>From grayscale to full color, in seconds.</p>
     </div>
     """,
     unsafe_allow_html=True,

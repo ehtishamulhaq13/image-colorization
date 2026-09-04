@@ -15,7 +15,7 @@ import config
 from models.unet import UNetColorizer
 from utils import lab_to_rgb
 
-st.set_page_config(page_title="AI Image Colorization", page_icon="🎨", layout="centered")
+st.set_page_config(page_title="Image Colorization", page_icon="🎨", layout="centered")
 
 
 @st.cache_resource
